@@ -11,3 +11,5 @@ How to install kali linux Nethunter or linux on android (not root) using Termux
 -chmod +x install-nethunter-termux
 -./install-nethunter-termux
 -nethunter
+
+credit=>https://www.linkedin.com/pulse/installing-kali-linux-nethunter-your-android-phone-sigmund
